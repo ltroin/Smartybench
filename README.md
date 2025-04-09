@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 📄 **Website:** [Website](https://remarkably-mind-blowing-lab.github.io/smarty-pat-logic-bench/)
 
-📚 **Dataset:** [SmartyPat-Bench on HuggingFace](https://huggingface.co/datasets/zhx123/SmartyPat-Bench)
+📚 **Dataset:** [SmartyPat-Bench on HuggingFace]https://huggingface.co/datasets/zhx123/Smarty
 
 ## 🧠 Overview
 
